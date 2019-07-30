@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "artyomryabov.github.io/static/css/main.b3cc5094.chunk.css",
-    "main.js": "artyomryabov.github.io/static/js/main.f408f43b.chunk.js",
-    "main.js.map": "artyomryabov.github.io/static/js/main.f408f43b.chunk.js.map",
-    "runtime~main.js": "artyomryabov.github.io/static/js/runtime~main.db63bc64.js",
-    "runtime~main.js.map": "artyomryabov.github.io/static/js/runtime~main.db63bc64.js.map",
-    "static/js/2.5dbd8ed4.chunk.js": "artyomryabov.github.io/static/js/2.5dbd8ed4.chunk.js",
-    "static/js/2.5dbd8ed4.chunk.js.map": "artyomryabov.github.io/static/js/2.5dbd8ed4.chunk.js.map",
-    "index.html": "artyomryabov.github.io/index.html",
-    "precache-manifest.b40801ae833a564febe8d984a8621a85.js": "artyomryabov.github.io/precache-manifest.b40801ae833a564febe8d984a8621a85.js",
-    "service-worker.js": "artyomryabov.github.io/service-worker.js",
-    "static/css/main.b3cc5094.chunk.css.map": "artyomryabov.github.io/static/css/main.b3cc5094.chunk.css.map"
+    "main.css": "artyomryabov.github.io/react-app/static/css/main.b3cc5094.chunk.css",
+    "main.js": "artyomryabov.github.io/react-app/static/js/main.2823b10a.chunk.js",
+    "main.js.map": "artyomryabov.github.io/react-app/static/js/main.2823b10a.chunk.js.map",
+    "runtime~main.js": "artyomryabov.github.io/react-app/static/js/runtime~main.6d8c0eb0.js",
+    "runtime~main.js.map": "artyomryabov.github.io/react-app/static/js/runtime~main.6d8c0eb0.js.map",
+    "static/js/2.5dbd8ed4.chunk.js": "artyomryabov.github.io/react-app/static/js/2.5dbd8ed4.chunk.js",
+    "static/js/2.5dbd8ed4.chunk.js.map": "artyomryabov.github.io/react-app/static/js/2.5dbd8ed4.chunk.js.map",
+    "index.html": "artyomryabov.github.io/react-app/index.html",
+    "precache-manifest.ce2557aacc2b882a8e4b04d78b861eb3.js": "artyomryabov.github.io/react-app/precache-manifest.ce2557aacc2b882a8e4b04d78b861eb3.js",
+    "service-worker.js": "artyomryabov.github.io/react-app/service-worker.js",
+    "static/css/main.b3cc5094.chunk.css.map": "artyomryabov.github.io/react-app/static/css/main.b3cc5094.chunk.css.map"
   }
 }
