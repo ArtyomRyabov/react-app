@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "artyomryabov.github.io/react-app/static/css/main.b3cc5094.chunk.css",
-    "main.js": "artyomryabov.github.io/react-app/static/js/main.2823b10a.chunk.js",
-    "main.js.map": "artyomryabov.github.io/react-app/static/js/main.2823b10a.chunk.js.map",
-    "runtime~main.js": "artyomryabov.github.io/react-app/static/js/runtime~main.6d8c0eb0.js",
-    "runtime~main.js.map": "artyomryabov.github.io/react-app/static/js/runtime~main.6d8c0eb0.js.map",
-    "static/js/2.5dbd8ed4.chunk.js": "artyomryabov.github.io/react-app/static/js/2.5dbd8ed4.chunk.js",
-    "static/js/2.5dbd8ed4.chunk.js.map": "artyomryabov.github.io/react-app/static/js/2.5dbd8ed4.chunk.js.map",
-    "index.html": "artyomryabov.github.io/react-app/index.html",
-    "precache-manifest.ce2557aacc2b882a8e4b04d78b861eb3.js": "artyomryabov.github.io/react-app/precache-manifest.ce2557aacc2b882a8e4b04d78b861eb3.js",
-    "service-worker.js": "artyomryabov.github.io/react-app/service-worker.js",
-    "static/css/main.b3cc5094.chunk.css.map": "artyomryabov.github.io/react-app/static/css/main.b3cc5094.chunk.css.map"
+    "main.css": "/react-app/static/css/main.b3cc5094.chunk.css",
+    "main.js": "/react-app/static/js/main.e692e9d7.chunk.js",
+    "main.js.map": "/react-app/static/js/main.e692e9d7.chunk.js.map",
+    "runtime~main.js": "/react-app/static/js/runtime~main.cbc86c42.js",
+    "runtime~main.js.map": "/react-app/static/js/runtime~main.cbc86c42.js.map",
+    "static/js/2.5dbd8ed4.chunk.js": "/react-app/static/js/2.5dbd8ed4.chunk.js",
+    "static/js/2.5dbd8ed4.chunk.js.map": "/react-app/static/js/2.5dbd8ed4.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.3a6b42f6414e172cfe6189bac0aa4a0b.js": "/react-app/precache-manifest.3a6b42f6414e172cfe6189bac0aa4a0b.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/main.b3cc5094.chunk.css.map": "/react-app/static/css/main.b3cc5094.chunk.css.map"
   }
 }
